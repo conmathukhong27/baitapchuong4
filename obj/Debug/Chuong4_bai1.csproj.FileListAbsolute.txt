@@ -1,0 +1,13 @@
+D:\Temp\Chuong4_bai1\bin\Debug\Chuong4_bai1.exe.config
+D:\Temp\Chuong4_bai1\bin\Debug\Chuong4_bai1.exe
+D:\Temp\Chuong4_bai1\bin\Debug\Chuong4_bai1.pdb
+D:\Temp\Chuong4_bai1\obj\Debug\Chuong4_bai1.csprojAssemblyReference.cache
+D:\Temp\Chuong4_bai1\obj\Debug\Chuong4_bai1.Formchaomung.resources
+D:\Temp\Chuong4_bai1\obj\Debug\Chuong4_bai1.Properties.Resources.resources
+D:\Temp\Chuong4_bai1\obj\Debug\Chuong4_bai1.csproj.GenerateResource.cache
+D:\Temp\Chuong4_bai1\obj\Debug\Chuong4_bai1.csproj.CoreCompileInputs.cache
+D:\Temp\Chuong4_bai1\obj\Debug\Chuong4_bai1.exe
+D:\Temp\Chuong4_bai1\obj\Debug\Chuong4_bai1.pdb
+D:\Temp\Chuong4_bai1\obj\Debug\Chuong4_bai1.FormTinhTong.resources
+D:\Temp\Chuong4_bai1\obj\Debug\Chuong4_bai1.FormMain.resources
+D:\Temp\Chuong4_bai1\obj\Debug\Chuong4_bai1.Tong_bt1.resources
